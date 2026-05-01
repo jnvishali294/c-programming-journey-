@@ -1,2 +1,4 @@
-# c-programming-journey-
-This repository contains my C programming learning journey ffom basic to advanced. I practice and upload programs daily.
+# day 1
+- welcome program
+- First program
+- about me program
