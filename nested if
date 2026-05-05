@@ -1,0 +1,28 @@
+#include<stdio.h>
+int main()
+{
+    int age ,mark;
+    
+    printf("enter num:");
+    scanf("%d",&age);
+    
+     printf("enter num:");
+    scanf("%d",&mark);
+    
+    
+    if(age>=18)
+    {
+        if(mark>=50)
+        {
+            printf("eligible\n");
+        }
+        else
+        {
+            printf("low marks\n");
+        }
+    }
+    else
+    {
+        printf("underage\n");
+    }
+}
